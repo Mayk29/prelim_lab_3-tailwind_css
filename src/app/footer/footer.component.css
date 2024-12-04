@@ -1,0 +1,8 @@
+section{
+    background-image: url("../../../public/assets/bg-contact.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+footer{
+    border-top: 2px solid #bd208b;
+}

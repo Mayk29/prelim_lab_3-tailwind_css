@@ -1,0 +1,7 @@
+section{
+    background-image: url(../../../public/assets/bg-gal.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: 2px solid #bd208b;
+}

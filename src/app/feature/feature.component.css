@@ -1,0 +1,7 @@
+body{
+    background-image: url(../../../public/assets/bg.JPG);
+    background-size: cover;
+    background-position: top;
+    background-blend-mode: darken;
+
+}
